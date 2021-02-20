@@ -1,0 +1,40 @@
+.Gallery_Img {
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+    margin-top: 40px;
+    border: 10px solid rgb(0, 0, 0);
+}
+
+.img1 {
+    width: 150px;
+}
+
+
+.umalert {
+    background: rgba(243, 2, 2, 0.726);
+    margin: 130px;
+    margin-top: 85px;
+    border-radius: 0px !important;
+    color: #fff;
+}
+
+.umh11 {
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px #000000;
+    text-align: center;
+    background-color: #000000;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+@media (max-width: 991px) {
+   
+    .umalert {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+}
